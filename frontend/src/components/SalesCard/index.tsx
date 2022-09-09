@@ -49,12 +49,12 @@ function SalesCard() {
                     </thead>
                     <tbody>
                         <tr>
-                            <td className="show992">#341</td>
+                            <td className="show992">#1</td>
                             <td className="show576">08/07/2022</td>
                             <td>Anakin</td>
-                            <td className="show992">15</td>
-                            <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td className="show992">45</td>
+                            <td className="show992">30</td>
+                            <td>R$ 3000.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificatioButton />
@@ -62,12 +62,12 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
+                            <td className="show992">#2</td>
                             <td className="show576">08/07/2022</td>
                             <td>Anakin</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td>R$ 2000.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificatioButton />
@@ -75,12 +75,12 @@ function SalesCard() {
                             </td>
                         </tr>
                         <tr>
-                            <td className="show992">#341</td>
+                            <td className="show992">#3</td>
                             <td className="show576">08/07/2022</td>
                             <td>Anakin</td>
-                            <td className="show992">15</td>
-                            <td className="show992">11</td>
-                            <td>R$ 55300.00</td>
+                            <td className="show992">25</td>
+                            <td className="show992">20</td>
+                            <td>R$ 1000.00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificatioButton />
